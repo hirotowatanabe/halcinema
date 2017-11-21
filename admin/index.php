@@ -10,6 +10,7 @@ $pageTitle = "ダッシュボード";
      <?php include("common.php"); ?>
         <div id="main">
               <h3><a href="add_movie.php">映画追加</a></h3>
+              <p>test</p>
         </div>
     </div>
 </body>
